@@ -1,0 +1,175 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	
+  <title>Tutorial de Roadmap</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3ee61fda-4157-49cf-bec5-b9f4f7b0afa1</md:uuid>
+</metadata>
+
+  <content>
+
+ <section id="roadmapintro">
+      <title>Connexions Roadmap</title>
+
+      <para id="rmintropara1"><term>Roadmap</term> es una herramienta para navegar a nuestra manera por un curso de Connexions. Consiste en la barra de herramientas de Connexions y Courseview. Podemos usar Roadmap para movernos de módulo en módulo dentro de un curso o para volver a nuestro lugar en el curso después de habernos desviado del camino del curso establecido por el instructor o enlazado a otro sitio de Internet.
+<note id="idm551520">Actualmente, Roadmap está disponible sólo con navegadores Mozilla y Netscape 7.x.</note></para>
+     </section>
+
+    <section id="toolbar">
+      <title>La barra de herramientas de Connexions</title>
+
+      <para id="toolbarpresent">Cuando ejecutamos Mozilla o Netscape, deberíamos ver la <term>barra de herramientas Connexions</term>, como muestra en <link target-id="toolbarfig"/>.
+      </para>
+
+      <figure id="toolbarfig"><media id="idp6587920" alt=""><image src="../../media/toolbar.png" mime-type="image/png"/></media>
+	<caption>La barra de herramientas de Connexions</caption>
+      </figure>
+      
+      <para id="toolbarparts">De izquierda a derecha, la barra de herramientas Connexions contiene el logo de Connexions (un enlace a la página de inicio de Connexions), el título del módulo que estamos viendo, y botones para mostrar los módulos previos y siguientes, buscar un módulo o curso, mostrar información de Roadmap, acceder a un diccionario y mostrar u ocultar Courseview (el visor del curso).
+      </para>
+      
+      <para id="notpresent">Si la barra de herramientas no está visible, podemos mostrarla yendo al menú View (Ver), seleccionando Show/Hide, y asegurándonos de que <link target-id="viewmenu">Connexions Toolbar</link> está marcado. Si esta opción no aparece en nuestro menú Show/Hide, quizás debamos <link url="http://cnx.rice.edu/roadmap">instalar el software de Connexions Roadmap</link> o contactar con el administrador de nuestro sistema.
+
+      </para>
+      
+      <figure id="viewmenu"><media id="idp5765328" alt=""><image src="../../media/view-menu.png" mime-type="image/png"/></media>
+	<caption>Habilitando la barra de herramientas de Connexions</caption>
+      </figure>
+
+      <section id="showhide">
+	<title>Activar Roadmap</title>
+
+	<para id="showhide1">Una vez que la barra de herramientas está visible, podemos pulsar <code>Show/Hide</code> en la parte derecha de la barra de herramientas para mostrar <link target-id="courseview" strength="3">Courseview</link> en el panel izquierdo de la pantalla del curso. Cuando cargamos un curso, aparecerá en el panel izquierdo. Podemos ocultarlo pulsando <code>Show/Hide</code> de nuevo.
+<note id="idp7128656">Si estamos usando Mozilla, la barra lateral de Mozilla puede que esté visible a la izquierda de Roadmap. Podemos ocultarla pulsando <code>F9</code>, de manera que dispongamos de más espacio de pantala. Podemos mostrarla de nuevo pulsando <code>F9</code> otra vez en cualquier momento.</note></para>
+      </section>
+
+      <section id="toolbarnavigate">
+	<title>Los botones Previous y Next</title>
+
+	<para id="prevnext">Una vez que un curso ha sido cargado, podemos navegar por este utilizando los botones <code>Previous</code> y <code>Next</code> a la derecha del nombre del curso en la barra de herramientas. <emphasis>No</emphasis> se trata de lo mismo que los botones de <code>avance</code> y <code>retroceso</code> de nuestro navegador. <code>Previous</code> y <code>Next</code> van sólo a través de los módulos del curso cargado. Aunque abandonemos el curso para mostrar otra página web, <code>Previous</code> y <code>Next</code> mostrarán los módulos previo y siguiente en la secuencia del curso.</para>
+      </section>
+
+      <section id="otherbuttons">
+	<title>Otros botones de la barra de herramientas</title>
+
+	<para id="buttons_p">
+	  <list id="buttons_l"><item>
+Pulsando en el logo de Connexions a la izquierda de la barra de herramientas, se muestra la <link url="http://cnx.rice.edu">página de inicio de Connexions</link>.
+	    </item>
+	    <item>
+<code>Search</code> muestra la página web "Search the Connexions repository", donde podemos buscar todos los módulos por palabras clave (motor de búsqueda básico), nombre de módulo, ID de módulo, nombre del autor, nombre del mantenedor o cuerpo del texto completo.
+	    </item>
+	    <item><code>Help</code> muestra este módulo.</item>
+	    <item><code>Dictionary</code> muestra una página web de diccionario, la cual es útil para buscar palabras a medida que avanzamos en el curso.
+	    </item></list>
+	</para>
+      </section>
+      
+    </section>
+    
+    <section id="panels"> 
+      <title>Roadmap Courseview</title>
+      
+      <para id="comfortable1">La parte principal de Roadmap es <term>Courseview</term> y es mostrada en <link target-id="roadmap.png"/>. Courseview es el panel izquierdo de Roadmap y muestra una lista de módulos del curso que estamos mirando. Para usar Courseview, o para ver módulos, debemos estar conectados a Internet. Si no tenemos un curso cargado, la parte superior de Courseview informa "No Course Selected", y el panel de Courseview está vacío.</para>
+      
+      <figure id="roadmap.png"><media id="idp6184400" alt=""><image src="../../media/roadmap.png" mime-type="image/png"/></media>
+	  <caption>Módulo de Connexions mostrando Roadmap</caption>
+      </figure>
+
+      <section id="courseview">
+	<title>Cambiar el tamaño del panel Courseview</title>
+
+	<para id="courseview1">Para cambiar el tamaño del panel Courseview, pulsamo la porción amarilla de la barra vertical entre courseview y arrastramos la caja para dimensionar el panel. Si pulsamos la barra amarilla una vez o si arrastramos la barra menos del mínimo del tamaño del panel, el panel se expande. Pulsamos la barra amarilla una vez para abrir el panel de nuevo.</para>
+
+       </section>	
+	
+	<section id="loadcourse">
+	  <title>Cargar un curso</title>
+
+	  <para id="loadcourse1">Para cargar un curso, pulsamos el enlace <emphasis>Course</emphasis> en lo alto del panel de Courseview. Seleccionamos entonces Open del menú desplegable. Ver <link target-id="coursemenu" strength="3"/>.</para>
+
+	  <figure id="courseopen" orient="horizontal"><subfigure id="coursemenu"><media id="idm732512" alt=""><image src="../../media/courseopenclose.png" mime-type="image/png"/></media></subfigure>
+            <subfigure id="coursedialog"><media id="idp7007904" alt=""><image src="../../media/coursechoose.png" mime-type="image/png"/></media></subfigure>	      
+	    <caption>Abrir un curso</caption>
+	  </figure>
+
+	  
+	  <para id="loadcourse3">Esto abre un cuadro de diálogo para seleccionar un curso. Ver <link target-id="coursedialog" strength="3"/>. Escogemos un curso de la lista y pulsamos <code>OK</code>. Esto carga tu curso y muestra la lista de módulos en Courseview. Ver <link target-id="courseviewimage" strength="3"/>.   
+	    <note id="idp7479792">
+Puede resultar necesario algunas veces cargar un curso usando una URL. <emphasis>Esto no es lo mismo que usar una URL en una página web.</emphasis> Para cargar un curso a través de Roadmap, <emphasis>debemos</emphasis> utilizar el diálogo Choose Course. Introducimos la URL en el campo "Enter course URL" y pulsamos <code>OK</code>.
+	    </note>
+	  </para>
+
+	  <figure id="courseviewimage">
+	    <media id="idp8363808" alt=""><image src="../../media/courseview.png" mime-type="image/png"/></media>
+	    <caption>Courseview</caption>
+	  </figure>
+	  
+	</section>
+
+	<section id="navigatingcourseview">
+	  <title>Navegar con Courseview</title>
+	  <para id="nagivate1">Para comenzar a navegar a través de un curso, pulsamos el título del primer módulo del curso. Si el primer ítem en el curso es una agrupación de módulos en lugar de un módulo único (denotado por una cajita con un signo más "+"  a la izquierda del título), pulsamos la caja o hacemos doble click en el título de la agrupación para expandir la agrupación, y entonces pulsamos el título del primer módulo en la agrupación. El módulo se carga en la ventana central. El título del módulo actualmente mostrado es resaltado en el panel Courseview. Cuando expandimos un título de una agrupación, el signo más en la cajita es reemplazado por un signo menos "-".</para>
+
+	  <para id="navigate2">Podemos ver otros módulos en el curso pulsando sus títulos. O podemos seguir la ruta del curso utilizando los <link target-id="toolbarnavigate">botones</link><code>Previous</code> y <code>Next</code> en la barra de herramientas.
+	  </para>
+
+	  <para id="highlight">Cuando mostramos otro módulo en el cursó actualmente cargado, el título en Courseview del nuevo módulo es automáticamente resaltado. Esto ocurre a pesar de cómo cargamos el nuevo módulo – introduciendo la URL, pulsando <code>Previous</code> o <code>Next</code> en la barra de herramientas o pulsando un enlace en un módulo que nos lleva a otro módulo en el curso. El título del módulo que se está mostrando es resaltado durante todo el tiempo que está en el curso cargado. Si dejamos el curso, el título del último módulo del curso que vimos es resaltado.</para>
+
+	</section>
+
+      </section>
+
+    
+    <section id="annotsec">
+      <title>Anotaciones (Annotations)</title>
+
+      <para id="ap1">Una anotación es una nota que es asociada con un punto específico en el texto de un curso o módulo. Estas notas no aparecen en el texto. Aparecen en un cuadro de diálogo que es abierto cuando pulsamos el icono de anotaciones que aparecen en el texto. Autores, instructores y estudiantes pueden introducir anotaciones. Autores e instructores introducen anotaciones de cursos. Son accesibles a cualquiera que vea el texto. Los estudiantes introducen anotaciones personales. Son privadas, específicas del usuario, y pueden ser vistas únicamente por la persona que las introdujo, como un favorito en un navegador de Internet.
+	<note id="idm1094944">Debemos tener instalado Connexions Roadmap para usar la funcionalidad de anotaciones.
+	</note>
+
+      </para>
+
+      <section id="vasec">
+	<title>Ver anotaciones</title>
+
+	<para id="va1">Para ver una anotación, pulsamos el icono. Un cuadro de diálogo se abre y muestra la anotación. Las anotaciones de curso aparecen en un cuado de diálogo "Course Annotation". Las anotaciones personales aparecen en un cuadro de diálogo "Cuerpo de anotación". Los iconos en el texto varían según el tipo de anotación. Podemos ocultar los iconos de anotación si los consideramos un factor de distracción mientras se lee el texto del curso o módulo. Para mostrar u ocultar los iconos de anotaciones, seguimos los siguientes pasos :
+	  <list id="valist" list-type="enumerated"><item>Pulsar el enlace <emphasis>Annotations</emphasis> en lo alto de Courseview. Un menú de dos ítems se abre : <emphasis>Add</emphasis> y <emphasis>Show/Hide</emphasis>.</item>
+	    <item>Pulsar <emphasis>Show/Hide</emphasis>. Se abre un <link target-id="annotation1">menú</link> conteniendo dos ítems : <emphasis>Course Annotations</emphasis> y <emphasis>Personal Annotations</emphasis>. Si aparece una marca de comprobación a la izquierda de un ítem, los iconos para dicho ítem serán visibles en el texto.            
+            <figure id="annotation1">
+	    <media id="idp6189104" alt=""><image src="../../media/annotationmenu.png" mime-type="image/png"/></media>
+	    <caption>Menún "Show/Hide" de las anotaciones</caption>
+	    </figure>
+            </item>
+	    <item>Pulsar un ítem de anotación para añadir o borrar la marca de comprobación, como se desee.</item>
+	  </list></para>
+      </section>
+
+      <section id="entersec">
+	<title>Introducir una anotación personal</title>
+	
+	<para id="ea1">Para introducir anotaciones personales en el texto de un curso o módulo, seguimos los siguientes pasos :
+	  <list id="ealist" list-type="enumerated"><item>Resaltamos el texto en el cual queremos añadir la anotación.</item> 
+	    <item>Hacemos click derecho en el texto resaltado. Un cuadro de menú aparece cerca del cursor.</item>
+	    <item>Seleccionamos <code>Annotate Current Selection with Roadmap</code> del menú. Se abre el <link target-id="annotation2">cuadro de diálogo Annotation body</link>.	    
+	    <figure id="annotation2">
+	    <media id="idm1765168" alt=""><image src="../../media/annotationbodydialog.png" mime-type="image/png"/></media>
+	    <caption>"Annotation body" dialog box</caption>
+	    </figure>
+
+	    </item>
+	    <item>Introducimos el texto de nuestra anotación en la caja de texto.</item> 
+            <item>Pulsamos la flecha hacia abajo en el campo "Type" y seleccionamos el tipo de anotación del menú desplegable. Los tipos son: Comment, See Also, Question, Explanation, Example, Change y Advice.</item>
+	    <item>Pulsamos la flecha hacia abajo en el campo "Language" y seleccionamos el lenguaje de la anotación del menú desplegable.</item>
+	    <item>Pulsamos <code>Post</code> para grabar la anotación. Un icono aparece en el texto donde introducimos la anotación.</item>
+	  </list></para>
+      </section>
+      
+      <section id="dasec">
+	<title>Borrar una anotación personal</title>
+
+	<para id="da1">Para borrar una anotación, vemos la anotación y pulsamos <code>Delete</code>. Este botón sólo aparece en el diálogo "Annotation Body" cuando mostramos una anotación existente. Connexions borra la anotacione y elimina el icono de anotación del texto.</para>
+      </section>
+    </section>
+
+  </content>
+
+</document>

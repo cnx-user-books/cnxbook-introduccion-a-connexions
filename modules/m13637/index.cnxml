@@ -1,0 +1,95 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>Visualizar contenidos de Connexions</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9e375456-25ec-426a-b3f2-9b9bcab04660</md:uuid>
+</metadata>
+	<content>
+		<para id="ov1">Ver el módulo <link document="m10884">Introducción a Connexions</link> 
+	para una visión general de Connexions.
+      </para>
+	<section id="search">
+	<title>Buscar en la base de contenidos</title>
+	<para id="sp1">Podemos buscar en la <term>Base de Contenidos (Content Commons)</term> un módulo específico o un curso utilizando el botón <code>Search</code> y la caja de texto en la parte superior derecha de las páginas web de Connexions. Escribimos un nombre, palabra clave, título de curso, título de módulo, cadena de texto o ID de objeto en la caja de texto de búsqueda (Search) y pulsamos <code>Search</code>. Connexions mostrará una lista de todos los módulos y cursos que se corresponden con nuestra entrada. Para ver un módulo o curso, pinchamos en su título.      </para>
+	</section>
+
+	<section id="navsec">
+	<title>Navegación de cursos de Connexions con Roadmap</title>
+	<para id="navapara">Roadmap nos ayuda a encontrar y ver contenido dentro de Connexions. Por el momento debemos usar el navegador Mozilla para acceder a Roadmap. Una descripción de las características de Roadmap y una explicación de cómo usarlo aparece en <link document="m10338">Connexions Roadmap</link>.</para>
+	</section>
+
+	<section id="navwo">
+	<title>Navegación de cursos de Connexions sin Roadmap</title>
+	<para id="openp0">Roadmap no es el único modo de navegación dentro de Connexions. Si accedemos a Connexions con un navegador que no tiene soporte para Roadmap, hay otras herramientas de navegación que podemos usar para poder apañarnos en los cursos.</para>
+
+	<section id="openrm">
+	<title>Abrir un curso</title>
+	<para id="openp1">Pulsamos en el enlace Courses en la esquina superior derecha de la página web de Connexions para mostrar la pantalla de los cursos ofrecidos por Connexions. Podemos también mostrar dicha pantalla seleccionando la pestaña “Content” (encima de la barra de localización <emphasis>“You are here”</emphasis>) y seleccionando la pestaña “Courses”  del centro de la página. Esta pestaña lista todos los cursos que están actualmente publicados en la <link target-id="studentig1">base de contenidos (Content Commons</link>). Para cada curso, la pestaña muestra el título del curso, el nombre de la institución y el nombre del “instructor” en columnas separadas. Pulsamos en la cabecera de una columna para ordenar la lista de cursos por los contenidos de dicha columna. Pinchamos el título del curso para mostrar dicho curso.</para>
+	
+	<figure id="studentig1"><media id="idm9505904" alt=""><image src="../../media/NoRoadmap1x.png" mime-type="image/png"/></media>
+	 <caption>Cursos de Connexions</caption>
+	</figure>
+	
+	</section>
+
+	<section id="navwithout">
+	<title>Navegar dentro de un curso</title>
+	<para id="navwopara1">Cuando abrimos por primera vez un curso, se muestra la página de título del curso. Esta página contiene dos paneles. Un panel está etiquetado <emphasis>“Course content”</emphasis> y contiene una tabla de contenidos para el curso la cual lista los nombres de las secciones y módulos dentro de dicho curso. Podemos pinchar el nombre de un módulo para mostrar dicho módulo. El otro panel muestra el enlace Start Course e información del curso, como la institución, instructor, autores contribuyentes y una breve descripción del curso. Pulsamos <emphasis>Start Course</emphasis> para mostrar el curso completo, comenzando con el primer módulo.</para>
+	
+	<para id="navwo2">Una vez que mostramos un módulo desde un curso, nos podemos mover al módulo previo o al módulo siguiente en el curso pulsando los enlaces <emphasis>‹‹PREV</emphasis> o <emphasis>NEXT››</emphasis> que aparecen en la esquina superior derecha. Dentro de cada módulo en un curso podemos mostrar la página de título del curso de nuevo pulsando el enlace <emphasis>Table of Contents</emphasis> que también aparece en la esquina superior derecha del módulo.</para>
+	
+	<figure id="prevnextlinks"><media id="idp293088" alt=""><image src="../../media/PrevNextLink.png" mime-type="image/png"/></media>
+	 <caption>Enlaces a los módulos anterior y siguiente en un curso</caption>
+	</figure>
+	
+	<note id="idm2008128">Los enlaces <emphasis>‹‹PREV</emphasis>, <emphasis>NEXT››</emphasis>, y <emphasis>Table of Content</emphasis> sólo se muestran cuando accedemos a un módulo desde un curso. Si accedemos a un módulo directamente desde un navegador, estos enlaces no aparecen.
+	</note>	
+	</section>
+	</section>
+	
+	<section id="findlinksect">
+	<title>Ver material relacionado</title>
+	<para id="viewrelpara1">Podemos ver contenidos relacionados con el módulo que estamos mostrando utilizando los enlaces en el panel “Material relacionado” que aparece a la izquierda del contenido del módulo. Este panel incluye :
+        <list id="relatedlist1">
+        <item>Enlaces a ejemplos, material suplementario, o material de prerequisitos proporcionado por el autor del módulo. La importancia de los enlaces se muestra por el número de barras en la caja a la izquierda del nombre del enlace. Estos enlaces pueden ser material dentro de Connexions o a un sitio web fuera de Connexions.</item>
+        <item>Los nombres de otros módulos que contienen contenido similar al módulo actual. Para mostrar dicho módulo, pulsamos el nombre de un módulo.</item>
+        <item>Cualesquiera otros cursos que contengan al módulo actual. Para mostrar dicho curso hemos de pulsar en el nombre del mismo.</item>
+        </list>
+	</para>
+	<figure id="relatedmaterialfig"><media id="idm8970992" alt=""><image src="../../media/RelatedMaterial.png" mime-type="image/png"/></media>
+	 <caption>Enlaces a material relacionado</caption>
+	</figure>
+	</section>
+	
+	<section id="displaystyle1">
+	<title>Cambiar el estilo de las páginas</title>
+	<para id="style12">Podemos cambiar el esquema de color y composición de las páginas de contenido seleccionando una de las opciones de <term>estilo</term> en la caja “Personalize”. La página de contenido por defecto es <emphasis>Summer Sky</emphasis>. Hay varios estilos para escoger, incluyendo <emphasis>Playland</emphasis>, la cual fue diseñada para los usuarios más jóvenes de Connexions.
+	</para>
+	<figure id="pagestylefig"><media id="idp4881456" alt=""><image src="../../media/PageStyles.png" mime-type="image/png"/></media>
+	 <caption>La caja de selección de estilo</caption>
+	</figure>
+	</section>
+	
+	<section id="editinplacesec">
+	<title>Realizar ediciones rápidas</title>
+	<para id="editinplacepara1">Si disponemos de privilegios de edición en el módulo actual, podemos realizar rápidas y simples ediciones mediante el enlace <emphasis>Edit In Place</emphasis>. Ver la página Connexions sobre <link url="http://cnx.rice.edu/technology/EditingTools/editInPlace.html">Edit In Place</link> para más información.</para>
+	</section>	
+	
+	<section id="aboutlink">
+	<title>Mostar información sobre el módulo</title>
+	<para id="aboutlink1">Para mostrar los <term>metadatos</term> para el módulo, pulsamos el enlace <emphasis>More about this content</emphasis> al final del módulo. Los metadatos no forman parte del contenido y son informaciones sobre un módulo, como el ID del módulo, el tipo de licencia, el número de versión, la fecha de creación, la fecha de revisión, los autores, mantenedores, titulares de los derechos, nombre del módulo, palabras clave y resumen/sumario/extracto.
+	</para>
+	</section>
+	
+	<section id="history">
+	<title>Ver el historial de revisión del módulo</title>
+	<para id="histmod1">Para ver el historial de revisión de un módulo, pulsamos el enlace <emphasis>Last edited</emphasis> al final del módulo y la página de historial (History) para el módulo se muestra. Cuando un nuevo módulo es publicado, Connexions asigna un número de revisión a dicha versión del módulo. Si resulta necesario actualizar el módulo, el autor lo comprueba, lo edita y lo publica de nuevo. Se asigna un número de revisión incrementado a la versión actualizada. Connexions almacena toda esta información de revisión y podemos verla en la página de historial del módulo.</para>
+	</section>
+	
+	<section id="print">
+	<title>Imprimir un módulo</title>
+	<para id="printmod">Para generar un fichero PDF de un módulo, el cual podemos imprimir, pulsamos el enlace <emphasis>Print(PDF)</emphasis> que aparece en la esquina superior derecha del módulo. Algunas veces queremos o necesitamos una copia impresa del material para propósitos de estudio. Podemos generar un fichero PDF para cualquier módulo. Estos ficheros PDF son formateados para impresión con números de página, cabeceras, pies y titulares numerados. Dado que el proceso de impresión utiliza un fichero PDF, debemos disponer de un paquete de software que pueda imprimir ficheros PDF instalado en nuestro ordenador.
+	</para>
+
+	<para id="print1">Si queremos una copia en papel de un curso entero hemos de contactar con el proyecto Connexions. En una futura actualización de las herramientas de Connexions, podremos imprimir un curso entero sin la ayuda del equipo del proyecto Connexions.</para>
+	</section>
+	</content>
+</document>

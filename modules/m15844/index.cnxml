@@ -1,0 +1,139 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Revisar sus contenidos en Connexions</title>
+  <metadata>
+  <md:content-id>m15844</md:content-id><md:title>Revisar sus contenidos en Connexions</md:title>
+  <md:abstract>Cómo revisar un módulo de Connexions que ha sido importado desde un documento Microsoft Word.</md:abstract>
+  <md:uuid>43b1069e-d342-4b19-b34a-9d407bbdbb19</md:uuid>
+</metadata>
+
+<content>
+  
+<note id="depricated" type="warning"><para id="p1">This module contains Connexions documentation which is out-of-date.  The contents of this module are provided here for historical purposes only and <emphasis>should not be considered accurate</emphasis> for the current version of the Connexions website.  The current (English-language) version of this module can be located at <link document="m10887">http://cnx.org/content/m10887/latest/</link>.   If you have any additional questions or cannot find the answer to your question, please contact <link url="mailto:techsupport@cnx.org">techsupport@cnx.org</link> and we will be happy to assist in any way we can.</para>
+<para id="p2">If you would like to assist Connexions by helping us update this module with an appropriate translation from the current English version, please contact us at <link url="mailto:cnx@cnx.org">cnx@cnx.org</link> as we would appreciate your help with improving our support for non-English-speaking users.</para>
+</note>
+
+    <section id="mswordsect1">
+      <title>Opciones para revisar sus contenidos en Connexions</title>
+        <para id="mswordpara1">Después de importar un documento de Microsoft Word en un módulo de Connexions, puede 
+	     descubrir que es necesario revisar el contenido. Usted tiene la opción de hacer las 
+	     revisiones en el documento original de Word y luego importarlos de nuevo en Connexions, 
+	     o puede revisar el contenido dentro de Connexions utilizando el editor Edit-In-Place. 
+	     En este módulo se explica la forma de revisar su contenido utilizando el editor Edit-In-Place. 
+        </para>
+    </section>
+
+
+    <section id="editinplacesec">
+      <title>Revisar con el editor Edit-In-Place</title>
+	<para id="eippara1">El editor Edit-In-Place se activa al hacer click en la pestaña "Edit". 
+	     Este editor permite insertar texto y objetos multimedia en un módulo, 
+             o modificar el contenido de un módulo existente. Para usar el editor
+             Edit-In-Place no es necesario estar familiarizado con las marcas 
+	     CMXML ya que el propio editor coloca las marcas CNXML apropiadas cuando se
+             inserta un nuevo item en el fichero, además, el editor cuenta con una ayuda 
+             que describe las marcas CNXML que usted inserte o edite. 
+       </para>
+	 
+       <section id="eipeditmodulesec">
+         <title>Editar contenido importado con el editor Edit-In-Place</title>
+	   <para id="eipeditpara1">Para editar el contenido de un módulo importado desde un documento
+             Word, siga los siguientes pasos:
+	     
+	     <list id="eiplist2" list-type="enumerated"><item>Inicie una sesión en Connexions.</item>
+               <item>Elija el workspace o workgroup en el que resida el                  
+               documento a editar.</item>
+               <item>Seleccione el módulo que desea editar con el editor Edit-In-Place.
+	       </item>
+	       <item>Desplace el texto hasta que aparezca en pantalla la caja gris que contiene 
+	       el item que desea editar.</item>
+               <item>Haga click en la caja de texto. La caja gris será reemplazada por una 
+	       <link target-id="eipeditmodulefig">caja azul de edición</link> que mostrará el texto del item.	       
+	     <figure id="eipeditmodulefig">
+	       <media id="id1169485105305" alt=""><image src="../../media/EIPeditcontent.png" mime-type="image/png"/></media>
+	       <caption>Caja de edición de color azul en el editor Edit-In-Place.</caption>
+	     </figure>
+               </item>
+	       <item>Realice los cambios necesarios en el item.</item>
+	       <item>Haga click en <code>Save</code> para guardar los cambios, o haga click 
+	       en <code>Cancel</code> para borrar los cambios realizados en la caja de edición.</item>
+               <item>Repita los pasos 4 a 7 para todos los items que quiera editar.
+               </item>	       	  
+	     </list>  	 
+	     <note id="id1169486534494" type="Nota"><label>Nota</label>Las ecuaciones matemáticas aparecen el las cajas de texto gris con la misma apariencia 
+	     que tienen cuando se muestra el módulo, sin embargo, en la caja azul de edición, las ecuaciones 
+	     matemáticas se muestran en el lenguage de marcado MathML. Edite las ecuaciones haciendo cambios al                       texto MathML.</note>
+	   </para>  
+       </section>
+	       
+	     
+       <section id="eipadditemsec">
+         <title>Añadir nuevo contenido con el editor Edit-In-Place</title>
+	   <para id="eipadditempara1">El editor Edit-In-Place permite añadir nuevo contenido a un módulo.
+	     Se pueden añadir: párrafos, listas enumeradas, listas con viñetas,
+	     ecuaciones, ejercicios, figuras, bloques de código, notas, ejemplos y tablas.
+	     El editor Edit-In-Place coloca las marcas CNXML de apertura y de cierre 
+	     alrededor del item y genera un identificador único por cada item añadido.
+	     Para añadir nuevos items, siga los siguientes pasos:
+	     
+	     <list id="eipadditemlist" list-type="enumerated"><item>Inicie una sesión en Connexions.</item>
+               <item>Elija el workspace o workgroup en el que resida el documento a editar.</item>
+	       <item>Seleccione el módulo que desea editar con el editor Edit-In-Place.
+	       </item>
+	       <item>Desplace el texto hasta que aparezca en pantalla el lugar en el
+	       que desea insertar el nuevo contenido. Usted puede insertar el nuevo 
+	       item encima o debajo de un item existente utilizando el botón
+	       <code>Add Here</code> situado encima o debajo del item
+	       </item>
+	       <item>Seleccione el tipo de item que desea añadir en la lista 
+	       desplegable próxima al botón <code>Add Here</code>, 
+	       por omisión el tipo de item seleccionado es párrafo ("Paragraph"). 
+	       Estos items se describen en el texto de ayuda al que se accede  
+	       al seleccionar "Other Elements" en la lista desplegable.</item> 
+	       <item>Haga click en <code>Add Here</code>, se mostrará una caja vacía 
+               de edición de color azul donde podrá insertar el tipo de item seleccionado. 
+               Para acceder a la ayuda sobre el tipo de item seleccionado, haga click en <code>Help editing xxx</code> 
+	       en la esquina superior derecha de la caja azul, donde xxx es la etiqueta
+               CNXML del item seleccionado.</item>
+	       <item>Teclee el texto apropiado al tipo de item en la caja azul de edición.</item> 
+	       <item>Haga click en <code>Save</code> para guardar el texto o haga click en
+	       <code>Cancel</code> para borrar el texto añadido en la caja azul de edición.</item>
+	       <item>Repita los pasos 4 a 8 para cada nuevo item que desee añadir al módulo.</item>
+	     </list>
+	   </para>
+   </section>
+
+
+     <section id="eipnewmodulesec">
+       <title>Insertar contenido en un módulo vacío</title>
+	 <para id="eippara2">Para insertar texto y objetos multimedia en un nuevo módulo sin contenido,
+	   siga los siguientes pasos:
+	   
+	   <list id="eiplist1" list-type="enumerated"><item>Inicie una sesión en Connexions.</item>
+               <item>Elija el workspace o workgroup en el que resida el documento a editar.</item>
+               <item>Seleccione el módulo que desea editar con el editor Edit-In-Place.
+	       </item>
+	     <item>Haga click en la <link target-id="eipnewmodulefig">caja gris</link> que dice "Click To Insert Text" 
+	     en el editor Edit-In-Place. 
+	  <figure id="eipnewmodulefig">
+	    <media id="id1169492852420" alt=""><image src="../../media/EIPnewmodule.png" mime-type="image/png"/></media>
+	    <caption>Caja de texto "Click To Insert Text" del editor 
+	    Edit-In-Place.</caption>
+	  </figure>
+	      La caja gris será reemplazada por una caja azul de edición.</item>
+	     <item>Teclee el texto que desee añadir en la <link target-id="eipinsertmodulefig">caja azul de edición</link> que dice "Insert Module Text Here".	     
+	  <figure id="eipinsertmodulefig">
+	    <media id="id1169494753392" alt=""><image src="../../media/EIPinsertmoduletext.png" mime-type="image/png"/></media>
+	    <caption>Caja de edición "Insert Module Text Here" del editor 
+	    Edit-In-Place.</caption>
+	  </figure>
+	     </item>
+	     <item>Haga click en <code>Save</code> para guardar el texto introducido. 
+	     La caja azul de edición será reemplazada por una caja gris que mostrará el nuevo contenido.</item>
+	   </list>  
+	 </para>
+       </section>
+</section>
+       
+  </content>
+  
+</document>

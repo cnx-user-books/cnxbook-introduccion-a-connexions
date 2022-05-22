@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tutorial para subir archivos de TeXmacs a Connexions</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f69e18d8-4df1-479a-9637-9c2ed78a1d99</md:uuid>
+</metadata>
+  <content>
+    
+    <para id="id2253729">El presente documento tiene como objetivo ilustrar al estudiante la forma
+correcta de transferir documentos realizados en el programa TeXmacs y subirlos
+a la plataforma Connexions, esto esperando que facilite la comprensión del
+entorno Connexions.</para>
+    <para id="id2253741">En orden para subir documentos a la plataforma connexions hechos en TeXmacs
+está de más decir que se necesita conexión a internet y tener insatalado el
+procesador de textos TeXmacs.</para>
+    <para id="id2253750">Lo primero que debemos hacer es crear una cuenta en Connexions, para esto
+vamos a la página http://cnx.org/ y hacer clic en la parte derecha de la
+pantalla donde dice Get an account, allí tendrán que hacer un registro de una
+cuenta para connexions.</para>
+    <para id="id2253762">Una vez hayan obtenido la cuenta de connexions, lo próximo a realizar es la
+creación de un módulo, esto con el objetivo de poder subir allí el documento
+hecho en TeXmacs.</para>
+    <para id="id2253771">El proceso de creacion de un modulo es bastante sencillo, solamente deben
+acceder a su cuenta de Connexions, despues van a la pestaña My Cnx y, una vez
+allí, dan clic en la seccion My Workspace. Ahora, comenzaremos a crear el
+módulo. Seleccionamos del menú desplegable que aparece la opcion Module, y
+hacemos clic en Create New Item.</para>
+    <para id="id2253786">Lo próximo a realizar es describir el tema y la clasificación del módulo. Si
+les preguntan por aceptar unas normas y leyes, sencillamente activen la
+casilla de estar de acuerdo y prosigan con el proceso.</para>
+    <para id="id2253796">Dado que Connexions maneja un tipo distinto de archivos debemos ajustas
+nuestro documento a los requerimientos de Connexions. Para lograr esto,
+debemos descargar un archivo template (archivo base) que nos servirá para que
+el documento funcione bajo connexions. Este archivo puede ser descargado en el
+link que dice template for LaTeX. Una vez descargado lo importan
+
+a TeXmacs y allí copian el contenido de lo que piensan subir a Connexions y
+cuando hallan terminado de copiar lo que quedará, guardan
+ el
+archivo.</para>
+    <para id="id2253826">Cuando se haya guardado el documento (.tex) debemos proseguir con la
+compresion de este, para esto utilizamos cualquier compresor de archivos (como
+winzip en windows, o el gestor de paquetes en ubuntu). Para la compresión del
+archivo debemos asegurarnos de que el archivo comprimido tenga el mismo nombre
+del archivo LaTeX (Ejemplo: LaTeX = trabajo.tex &gt; Comprimido = trabajo.zip).</para>
+    <para id="id2253842">Ahora solo nos queda subir el archivo comprimido a la plataforma y publicarlo.</para>
+    <para id="id2253846">En este momento debemos dirigirnos a la pagina que teniamos en el explorador,
+allí veremos dos menus desplegables, sencillamente daremos clic en la opcion
+LaTeX del menú desplegable de la izquierda y haremos clic en  Import. Allí
+nos pedirá que nos refiramos al archivo .zip que hemos creado y luego daremos
+clic en Import. Si les lanza un aviso de error es porque han procedido
+erroenamente en alguno de los pasos anteriores, entonces deberan reexportar y
+recomprimir el archivo que hicieron.</para>
+    <para id="id2253862">Una vez importado con éxito el archivo, solo resta publicarlo en connexions,
+para esto hacemos clic en la pestaña Publish de la parte superior de la
+página, y listo!!! ya han publicado el archivo hecho en TeXmacs.</para>
+    <para id="id2253873">Cualquier duda porfavor replicarme en este post o a mi correo:
+danyfel80@gmail.com</para>
+    <para id="id2253877">Daniel Gonzalez,</para>
+    <para id="id2253881">Saludos</para>
+  </content>
+</document>

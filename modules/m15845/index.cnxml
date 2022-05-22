@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Publicar un documento en Connexions</title>
+  <metadata>
+  <md:content-id>m15845</md:content-id><md:title>Publicar un documento en Connexions</md:title>
+  <md:abstract>Cómo publicar un documento en Connexions</md:abstract>
+  <md:uuid>0bf8ff2e-2dfb-4e69-9265-b6264de34ae5</md:uuid>
+</metadata>
+
+<content>
+    <section id="submitmodule">
+      <title>Publicar un módulo</title>
+ 	<para id="submittext">Para que cualquier persona pueda ver en Internet un nuevo módulo, o los cambios realizados a un módulo existente, es necesario publicar el módulo en Connexions. Para publicar un módulo, siga los siguientes pasos:
+	  
+	  <list id="submitmodulelist1" list-type="enumerated"><item>Inicie una sesión en Connexions.</item>
+               <item>Seleccione el "Workgroup" o espacio de trabajo en el que resida el documento que desea publicar.</item>
+               <item>Seleccione el módulo que desea publicar.</item>
+	    <item>Haga click en la pestaña "Publish", se mostrará la página <link target-id="publishfig">"Publish 
+	    Module"</link>. Esta página contiene una lista de recordatorios que usted debe comprobar antes de publicar el módulo.</item>
+	    <item>Escriba una breve descripción del trabajo realizado en el módulo dentro de la caja de texto "Description of Changes".</item>
+	    <item>Haga click en <code>Publish</code>, su trabajo se guardará en el  "Content Commons" de Connexions y cualquier persona que tenga acceso a Intenet podrá ver el módulo.</item>
+	  </list>
+	</para>
+	
+	<figure id="publishfig"><media id="id6675838" alt=""><image src="../../media/publish.png" mime-type="image/png"/></media>
+	  <caption>El panel "Publish".</caption>
+	</figure>
+
+	<para id="submittext2">En general, un nuevo módulo no tendrá cambios, por lo que en la caja de texto 
+	  "Description of Changes" se puede introducir un comentario como, 
+	  "Creación de un nuevo módulo".
+	</para>
+
+	<note id="id5169451" type="nota"><label>Nota</label>La acción de publicar un módulo es diferente al acto de hacer click en el botón 
+	<code>Save</code> dentro de una sesión de edición. Cuando usted salva los cambios,
+	sólo usted y las personas con acceso a su workgroup pueden ver los cambios. Cuando 
+        usted publica un módulo, el mundo entero puede ver su trabajo en Internet.</note>
+	
+    </section>
+
+
+  </content>
+  
+</document>
