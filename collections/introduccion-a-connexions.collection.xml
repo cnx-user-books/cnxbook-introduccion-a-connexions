@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es" authors="Juan Jes&#xFA;s Jim&#xE9;nez Garrido">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10649</md:content-id>
-    <md:title>Introducción a Connexions</md:title>
+    <md:title>Introducci&#xF3;n a Connexions</md:title>
     <md:language>es</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>49ac5239-7cf6-4614-97d8-7ec46372279d</md:uuid>
-<md:slug>introduccion-a-connexions</md:slug>
-</metadata>
+    <md:slug>introduccion-a-connexions</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m15839"/>
     <col:module document="m13637"/>
